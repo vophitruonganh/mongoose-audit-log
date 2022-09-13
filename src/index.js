@@ -1,4 +1,4 @@
-const plugin = require('./plugin');
+const plugin = require('./plugin.js');
 const model = require('./model');
 
 module.exports = {
